@@ -1,0 +1,27 @@
+mongoexport --collection=peliculas --out C:\users\Francisco\Desktop\peliculas.json
+mongoexport --collection=series --out C:\users\Francisco\Desktop\series.json
+mongoexport --collection=paises --out C:\users\Francisco\Desktop\paises.json
+mongoexport --collection=categorias --out C:\users\Francisco\Desktop\categorias.json
+mongoexport --collection=usuarios --out C:\users\Francisco\Desktop\usuarios.json
+
+
+mongoimport --db test --collection peliculas --file C:\users\Francisco\Desktop\peliculas.json
+mongoimport --db test --collection series --file C:\users\Francisco\Desktop\series.json
+mongoimport --db test --collection paises --file C:\users\Francisco\Desktop\paises.json
+mongoimport --db test --collection categorias --file C:\users\Francisco\Desktop\categorias.json
+mongoimport --db test --collection usuarios --file C:\users\Francisco\Desktop\usuarios.json
+
+____________________________________________Online_Mode________________________________________________-
+
+mongoexport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection peliculas --type json --out C:\users\Francisco\Desktop\peliculas.json
+mongoexport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection series --type json --out C:\users\Francisco\Desktop\series.json
+mongoexport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection paises --type json --out C:\users\Francisco\Desktop\paises.json
+mongoexport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection categorias --type json --out C:\users\Francisco\Desktop\categorias.json
+mongoexport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection usuarios --type json --out C:\users\Francisco\Desktop\usuarios.json
+
+
+mongoimport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection peliculas --type json --file C:\users\Francisco\Desktop\peliculas.json
+mongoimport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection series --type json --file C:\users\Francisco\Desktop\series.json
+mongoimport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection paises --type json --file C:\users\Francisco\Desktop\paises.json
+mongoimport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection categorias --type json --file C:\users\Francisco\Desktop\categorias.json
+mongoimport --uri mongodb+srv://admin:admin@cluster0.if9bw.mongodb.net/proyecto2 --collection usuarios --type json --file C:\users\Francisco\Desktop\usuarios.json
