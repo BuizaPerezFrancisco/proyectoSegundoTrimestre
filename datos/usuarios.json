@@ -1,0 +1,10 @@
+{"_id":1.0,"nombreUsuario":"franBuiPer","suscripciones":["series","peliculas"],"edad":18.0,"pais":"espana"}
+{"_id":2.0,"nombreUsuario":"raulBuiRom","suscripciones":["peliculas"],"edad":22.0,"pais":"espana"}
+{"_id":3.0,"nombreUsuario":"crispiChicken","suscripciones":["peliculas"],"edad":10.0,"pais":"espana"}
+{"_id":4.0,"nombreUsuario":"ivanProsciuto","suscripciones":["series","peliculas"],"edad":27.0,"pais":"italia"}
+{"_id":5.0,"nombreUsuario":"Pepperoni","suscripciones":["series"],"edad":35.0,"pais":"italia"}
+{"_id":6.0,"nombreUsuario":"Rexil","suscripciones":["series","peliculas"],"edad":16.0,"pais":"alemania"}
+{"_id":7.0,"nombreUsuario":"Jonny","suscripciones":["series","peliculas"],"edad":13.0,"pais":"alemania"}
+{"_id":8.0,"nombreUsuario":"IreneBuiza","suscripciones":["series","peliculas"],"edad":4.0,"pais":"espana"}
+{"_id":9.0,"nombreUsuario":"MarioBros","suscripciones":["peliculas"],"edad":17.0,"pais":"inglaterra"}
+{"_id":10.0,"nombreUsuario":"LuigiBarcelo","suscripciones":["series"],"edad":19.0,"pais":"inglaterra"}

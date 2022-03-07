@@ -1,0 +1,15 @@
+{"_id":1.0,"titulo":"Battleship","clasificacionEdad":16.0,"id_categoria":[1.0,2.0,5.0,19.0],"fechaSalida":{"$date":"2012-04-11T00:00:00Z"},"duracionMinutos":131.0,"precioEuros":3.0}
+{"_id":2.0,"titulo":"Ice Age","clasificacionEdad":5.0,"id_categoria":[3.0,6.0],"fechaSalida":{"$date":"2002-01-28T00:00:00Z"},"duracionMinutos":81.0,"precioEuros":2.0}
+{"_id":3.0,"titulo":"Toy Story","clasificacionEdad":3.0,"id_categoria":[3.0,2.0],"fechaSalida":{"$date":"1996-03-14T00:00:00Z"},"duracionMinutos":81.0,"precioEuros":4.0}
+{"_id":4.0,"titulo":"Cars","clasificacionEdad":3.0,"id_categoria":[3.0,7.0],"fechaSalida":{"$date":"2006-07-06T00:00:00Z"},"duracionMinutos":116.0,"precioEuros":3.0}
+{"_id":5.0,"titulo":"Venganza","clasificacionEdad":18.0,"id_categoria":[1.0,12.0],"fechaSalida":{"$date":"2008-08-08T00:00:00Z"},"duracionMinutos":93.0,"precioEuros":5.0}
+{"_id":6.0,"titulo":"Ready Player One","clasificacionEdad":13.0,"id_categoria":[1.0,10.0,2.0],"fechaSalida":{"$date":"2018-03-29T00:00:00Z"},"duracionMinutos":140.0,"precioEuros":3.0}
+{"_id":7.0,"titulo":"Deadpool","clasificacionEdad":18.0,"id_categoria":[1.0,4.0,11.0],"fechaSalida":{"$date":"2016-02-19T00:00:00Z"},"duracionMinutos":109.0,"precioEuros":5.0}
+{"_id":8.0,"titulo":"El Dictador","clasificacionEdad":16.0,"id_categoria":[4.0,16.0],"fechaSalida":{"$date":"2012-01-01T00:00:00Z"},"duracionMinutos":83.0,"precioEuros":2.0}
+{"_id":9.0,"titulo":"Iron Man","clasificacionEdad":7.0,"id_categoria":[1.0,2.0,11.0],"fechaSalida":{"$date":"2008-05-02T00:00:00Z"},"duracionMinutos":126.0,"precioEuros":4.0}
+{"_id":10.0,"titulo":"Shrek","clasificacionEdad":7.0,"id_categoria":[10.0,2.0,4.0,3.0],"fechaSalida":{"$date":"2001-07-13T00:00:00Z"},"duracionMinutos":92.0,"precioEuros":5.0}
+{"_id":11.0,"titulo":"Shin Shan: Perdidos en la Jungla","clasificacionEdad":2.0,"id_categoria":[3.0,10.0,18.0],"fechaSalida":{"$date":"2001-01-11T00:00:00Z"},"duracionMinutos":100.0,"precioEuros":1.0}
+{"_id":12.0,"titulo":"Mortal Kombat","clasificacionEdad":18.0,"id_categoria":[1.0,14.0],"fechaSalida":{"$date":"2021-04-08T00:00:00Z"},"duracionMinutos":110.0,"precioEuros":2.0}
+{"_id":13.0,"titulo":"Chicken Little","clasificacionEdad":4.0,"id_categoria":[3.0,2.0,19.0],"fechaSalida":{"$date":"2005-11-18T00:00:00Z"},"duracionMinutos":81.0,"precioEuros":2.0}
+{"_id":14.0,"titulo":"Harry Potter y la piedra filosofal","clasificacionEdad":7.0,"id_categoria":[13.0,2.0,10.0],"fechaSalida":{"$date":"2001-11-04T00:00:00Z"},"duracionMinutos":152.0,"precioEuros":3.0}
+{"_id":15.0,"titulo":"Interstellar","clasificacionEdad":13.0,"id_categoria":[1.0,20.0,15.0],"fechaSalida":{"$date":"2014-10-26T00:00:00Z"},"duracionMinutos":169.0,"precioEuros":4.0}
